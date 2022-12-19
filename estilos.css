@@ -62,7 +62,12 @@ p {
     z-index: 2;
 }
 
-
+#p1{
+    text-decoration: dotted overline;
+}
+#p2{
+    text-decoration: dotted underline;
+}
 div:active,
 div:hover {
     opacity: 1;
